@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/procodes27/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Array
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
