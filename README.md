@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3483-alternating-groups-ii](https://github.com/procodes27/LeetCode/tree/master/3483-alternating-groups-ii) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
