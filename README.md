@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/procodes27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/procodes27/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/procodes27/LeetCode/tree/master/0046-permutations) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/procodes27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
