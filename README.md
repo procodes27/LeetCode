@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/procodes27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/procodes27/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/procodes27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/procodes27/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/procodes27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/procodes27/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
