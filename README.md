@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/procodes27/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/procodes27/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/procodes27/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/procodes27/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
+| [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
