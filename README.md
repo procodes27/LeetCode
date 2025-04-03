@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2690-house-robber-iv](https://github.com/procodes27/LeetCode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/procodes27/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/procodes27/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/procodes27/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
