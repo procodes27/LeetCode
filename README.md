@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2665-minimum-time-to-repair-cars](https://github.com/procodes27/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/procodes27/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/procodes27/LeetCode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/procodes27/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/procodes27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/procodes27/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/procodes27/LeetCode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/procodes27/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/procodes27/LeetCode/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/procodes27/LeetCode/tree/master/3430-count-days-without-meetings) |
