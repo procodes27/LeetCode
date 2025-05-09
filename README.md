@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/procodes27/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/procodes27/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2262-solving-questions-with-brainpower](https://github.com/procodes27/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/procodes27/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/procodes27/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/procodes27/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1993-sum-of-all-subset-xor-totals](https://github.com/procodes27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/procodes27/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/procodes27/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
