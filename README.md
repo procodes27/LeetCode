@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/procodes27/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/procodes27/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/procodes27/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/procodes27/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/procodes27/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/procodes27/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/procodes27/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/procodes27/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Monotonic Stack
 |  |
 | ------- |
