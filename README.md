@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/procodes27/LeetCode/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/procodes27/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/procodes27/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
