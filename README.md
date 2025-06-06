@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/procodes27/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/procodes27/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/procodes27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/procodes27/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/procodes27/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/procodes27/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/procodes27/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/procodes27/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-rabbits-in-forest](https://github.com/procodes27/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/procodes27/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/procodes27/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/procodes27/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/procodes27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
