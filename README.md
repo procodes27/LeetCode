@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2856-count-complete-subarrays-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/procodes27/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/procodes27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2690-house-robber-iv](https://github.com/procodes27/LeetCode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/procodes27/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-zero-array-transformation-ii](https://github.com/procodes27/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2681-put-marbles-in-bags](https://github.com/procodes27/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/procodes27/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/procodes27/LeetCode/tree/master/3321-type-of-triangle) |
