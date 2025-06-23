@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1656-count-good-triplets](https://github.com/procodes27/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/procodes27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/procodes27/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/procodes27/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/procodes27/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/procodes27/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/procodes27/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/procodes27/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Memoization
 |  |
 | ------- |
