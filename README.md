@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3321-type-of-triangle](https://github.com/procodes27/LeetCode/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/procodes27/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3430-count-days-without-meetings](https://github.com/procodes27/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/procodes27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/procodes27/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/procodes27/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/procodes27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2915-count-of-interesting-subarrays](https://github.com/procodes27/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/procodes27/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/procodes27/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/procodes27/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/procodes27/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/procodes27/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
