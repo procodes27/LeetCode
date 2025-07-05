@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/procodes27/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/procodes27/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/procodes27/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/procodes27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/procodes27/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/procodes27/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/procodes27/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/procodes27/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/procodes27/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/procodes27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/procodes27/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/procodes27/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/procodes27/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/procodes27/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/procodes27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/procodes27/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/procodes27/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/procodes27/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
