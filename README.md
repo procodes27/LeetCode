@@ -506,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/procodes27/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/procodes27/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
