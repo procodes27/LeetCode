@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/procodes27/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/procodes27/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/procodes27/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2478-longest-nice-subarray](https://github.com/procodes27/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/procodes27/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/procodes27/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/procodes27/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/procodes27/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/procodes27/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/procodes27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/procodes27/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/procodes27/LeetCode/tree/master/2690-house-robber-iv) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/procodes27/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/procodes27/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/procodes27/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/procodes27/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/procodes27/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/procodes27/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2417-the-latest-time-to-catch-a-bus](https://github.com/procodes27/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
 | [2479-meeting-rooms-iii](https://github.com/procodes27/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/procodes27/LeetCode/tree/master/2681-put-marbles-in-bags) |
