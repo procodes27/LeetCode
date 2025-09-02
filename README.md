@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/procodes27/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/procodes27/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/procodes27/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/procodes27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/procodes27/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/procodes27/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/procodes27/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/procodes27/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/procodes27/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
