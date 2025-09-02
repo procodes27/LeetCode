@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/procodes27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/procodes27/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/procodes27/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/procodes27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/procodes27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/procodes27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/procodes27/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/procodes27/LeetCode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/procodes27/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/procodes27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
