@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [0857-positions-of-large-groups](https://github.com/procodes27/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/procodes27/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/procodes27/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/procodes27/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/procodes27/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/procodes27/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/procodes27/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/procodes27/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/procodes27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/procodes27/LeetCode/tree/master/1635-number-of-good-pairs) |
