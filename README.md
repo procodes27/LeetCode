@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/procodes27/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/procodes27/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0540-single-element-in-a-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/procodes27/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/procodes27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/procodes27/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/procodes27/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/procodes27/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/procodes27/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
