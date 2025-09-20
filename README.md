@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/procodes27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/procodes27/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/procodes27/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/procodes27/LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/procodes27/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/procodes27/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
