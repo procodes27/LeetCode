@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2308-divide-array-into-equal-pairs](https://github.com/procodes27/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/procodes27/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/procodes27/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/procodes27/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/procodes27/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2417-the-latest-time-to-catch-a-bus](https://github.com/procodes27/LeetCode/tree/master/2417-the-latest-time-to-catch-a-bus) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/procodes27/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/procodes27/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/procodes27/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/procodes27/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/procodes27/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/procodes27/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/procodes27/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/procodes27/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/procodes27/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2479-meeting-rooms-iii](https://github.com/procodes27/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3790-fruits-into-baskets-ii](https://github.com/procodes27/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
