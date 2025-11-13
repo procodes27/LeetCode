@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/procodes27/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/procodes27/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/procodes27/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/procodes27/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/procodes27/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/procodes27/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/procodes27/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/procodes27/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/procodes27/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/procodes27/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/procodes27/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/procodes27/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/procodes27/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/procodes27/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/procodes27/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/procodes27/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/procodes27/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3647-zero-array-transformation-iii](https://github.com/procodes27/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/procodes27/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Stack
