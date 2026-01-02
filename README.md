@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/procodes27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/procodes27/LeetCode/tree/master/0038-count-and-say) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/procodes27/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/procodes27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/procodes27/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/procodes27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/procodes27/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/procodes27/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
