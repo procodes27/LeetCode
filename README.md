@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/procodes27/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/procodes27/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/procodes27/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1390-four-divisors](https://github.com/procodes27/LeetCode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/procodes27/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/procodes27/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/procodes27/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/procodes27/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1390-four-divisors](https://github.com/procodes27/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/procodes27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/procodes27/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/procodes27/LeetCode/tree/master/1448-maximum-69-number) |
