@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/procodes27/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/procodes27/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/procodes27/LeetCode/tree/master/1656-count-good-triplets) |
+| [1975-maximum-matrix-sum](https://github.com/procodes27/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/procodes27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/procodes27/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/procodes27/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/procodes27/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/procodes27/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1975-maximum-matrix-sum](https://github.com/procodes27/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/procodes27/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/procodes27/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/procodes27/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1448-maximum-69-number](https://github.com/procodes27/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/procodes27/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/procodes27/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1975-maximum-matrix-sum](https://github.com/procodes27/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/procodes27/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/procodes27/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/procodes27/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
