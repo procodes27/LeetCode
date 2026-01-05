@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/procodes27/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/procodes27/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/procodes27/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/procodes27/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/procodes27/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/procodes27/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/procodes27/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/procodes27/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/procodes27/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/procodes27/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/procodes27/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/procodes27/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
