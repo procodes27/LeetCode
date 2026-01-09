@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/procodes27/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/procodes27/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/procodes27/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/procodes27/LeetCode/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/procodes27/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/procodes27/LeetCode/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/procodes27/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/procodes27/LeetCode/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/procodes27/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/procodes27/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/procodes27/LeetCode/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/procodes27/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/procodes27/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/procodes27/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
