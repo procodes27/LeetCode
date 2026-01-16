@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [0857-positions-of-large-groups](https://github.com/procodes27/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
+| [1021-remove-outermost-parentheses](https://github.com/procodes27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/procodes27/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/procodes27/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/procodes27/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
+| [1021-remove-outermost-parentheses](https://github.com/procodes27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/procodes27/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
