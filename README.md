@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2915-count-of-interesting-subarrays](https://github.com/procodes27/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/procodes27/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/procodes27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/procodes27/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/procodes27/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/procodes27/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/procodes27/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/procodes27/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/procodes27/LeetCode/tree/master/3321-type-of-triangle) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/procodes27/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/procodes27/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Line Sweep
 |  |
 | ------- |
