@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-largest-magic-square](https://github.com/procodes27/LeetCode/tree/master/1895-largest-magic-square) |
 | [2249-count-the-hidden-sequences](https://github.com/procodes27/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/procodes27/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/procodes27/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/procodes27/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/procodes27/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/procodes27/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/procodes27/LeetCode/tree/master/2050-count-good-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/procodes27/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2485-find-the-pivot-integer](https://github.com/procodes27/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/procodes27/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/procodes27/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
