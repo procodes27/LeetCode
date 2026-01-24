@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/procodes27/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/procodes27/LeetCode/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/procodes27/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/procodes27/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/procodes27/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/procodes27/LeetCode/tree/master/2050-count-good-numbers) |
