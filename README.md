@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/procodes27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/procodes27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/procodes27/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/procodes27/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/procodes27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/procodes27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/procodes27/LeetCode/tree/master/0416-partition-equal-subset-sum) |
