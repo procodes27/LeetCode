@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0806-domino-and-tromino-tiling](https://github.com/procodes27/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/procodes27/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/procodes27/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/procodes27/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/procodes27/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/procodes27/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1635-number-of-good-pairs](https://github.com/procodes27/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/procodes27/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/procodes27/LeetCode/tree/master/1642-water-bottles) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/procodes27/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1903-largest-odd-number-in-string](https://github.com/procodes27/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/procodes27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/procodes27/LeetCode/tree/master/2050-count-good-numbers) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/procodes27/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/procodes27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/procodes27/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
