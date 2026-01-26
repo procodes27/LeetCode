@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/procodes27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/procodes27/LeetCode/tree/master/0645-set-mismatch) |
 | [0797-rabbits-in-forest](https://github.com/procodes27/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0812-largest-triangle-area](https://github.com/procodes27/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/procodes27/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0907-koko-eating-bananas](https://github.com/procodes27/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/procodes27/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0812-largest-triangle-area](https://github.com/procodes27/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/procodes27/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/procodes27/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/procodes27/LeetCode/tree/master/1390-four-divisors) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/procodes27/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/procodes27/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/procodes27/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/procodes27/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
