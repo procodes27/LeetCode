@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/procodes27/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/procodes27/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/procodes27/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/procodes27/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/procodes27/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/procodes27/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/procodes27/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
