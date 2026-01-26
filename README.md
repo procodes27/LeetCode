@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2396-strictly-palindromic-number](https://github.com/procodes27/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2485-find-the-pivot-integer](https://github.com/procodes27/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/procodes27/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/procodes27/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/procodes27/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0204-count-primes](https://github.com/procodes27/LeetCode/tree/master/0204-count-primes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2523-closest-prime-numbers-in-range](https://github.com/procodes27/LeetCode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
