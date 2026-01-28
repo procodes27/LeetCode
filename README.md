@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/procodes27/LeetCode/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/procodes27/LeetCode/tree/master/0089-gray-code) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/procodes27/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/procodes27/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Sorting
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/procodes27/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/procodes27/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/procodes27/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/procodes27/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/procodes27/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/procodes27/LeetCode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/procodes27/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/procodes27/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/procodes27/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
