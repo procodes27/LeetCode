@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/procodes27/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/procodes27/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/procodes27/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/procodes27/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/procodes27/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/procodes27/LeetCode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/procodes27/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/procodes27/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/procodes27/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/procodes27/LeetCode/tree/master/0223-rectangle-area) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/procodes27/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1021-remove-outermost-parentheses](https://github.com/procodes27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/procodes27/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
