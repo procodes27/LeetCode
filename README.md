@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/procodes27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/procodes27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/procodes27/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/procodes27/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/procodes27/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/procodes27/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/procodes27/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/procodes27/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/procodes27/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/procodes27/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0060-permutation-sequence](https://github.com/procodes27/LeetCode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/procodes27/LeetCode/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/procodes27/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/procodes27/LeetCode/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/procodes27/LeetCode/tree/master/2050-count-good-numbers) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/procodes27/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
