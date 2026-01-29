@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/procodes27/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/procodes27/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1046-last-stone-weight](https://github.com/procodes27/LeetCode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/procodes27/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/procodes27/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/procodes27/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/procodes27/LeetCode/tree/master/1046-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/procodes27/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/procodes27/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/procodes27/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
