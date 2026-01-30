@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/procodes27/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0520-detect-capital](https://github.com/procodes27/LeetCode/tree/master/0520-detect-capital) |
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
 | [0857-positions-of-large-groups](https://github.com/procodes27/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
