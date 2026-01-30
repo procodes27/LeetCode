@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/procodes27/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/procodes27/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/procodes27/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/procodes27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/procodes27/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/procodes27/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/procodes27/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/procodes27/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/procodes27/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/procodes27/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/procodes27/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/procodes27/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/procodes27/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/procodes27/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Queue
 |  |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/procodes27/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/procodes27/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/procodes27/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/procodes27/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/procodes27/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/procodes27/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/procodes27/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/procodes27/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/procodes27/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/procodes27/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -862,5 +867,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/procodes27/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
