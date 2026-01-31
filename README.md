@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0482-license-key-formatting](https://github.com/procodes27/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/procodes27/LeetCode/tree/master/0520-detect-capital) |
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
+| [0831-masking-personal-information](https://github.com/procodes27/LeetCode/tree/master/0831-masking-personal-information) |
 | [0857-positions-of-large-groups](https://github.com/procodes27/LeetCode/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/procodes27/LeetCode/tree/master/0868-push-dominoes) |
 | [1021-remove-outermost-parentheses](https://github.com/procodes27/LeetCode/tree/master/1021-remove-outermost-parentheses) |
