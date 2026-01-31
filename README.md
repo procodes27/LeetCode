@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0038-count-and-say](https://github.com/procodes27/LeetCode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/procodes27/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/procodes27/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/procodes27/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/procodes27/LeetCode/tree/master/0520-detect-capital) |
@@ -874,4 +875,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/procodes27/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/procodes27/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/procodes27/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
