@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/procodes27/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/procodes27/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/procodes27/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/procodes27/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/procodes27/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/procodes27/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/procodes27/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/procodes27/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
