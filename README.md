@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0636-exclusive-time-of-functions](https://github.com/procodes27/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/procodes27/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/procodes27/LeetCode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/procodes27/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/procodes27/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/procodes27/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/procodes27/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/procodes27/LeetCode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/procodes27/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/procodes27/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/procodes27/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/procodes27/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/procodes27/LeetCode/tree/master/0907-koko-eating-bananas) |
