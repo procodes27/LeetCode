@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/procodes27/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/procodes27/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/procodes27/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/procodes27/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1895-largest-magic-square](https://github.com/procodes27/LeetCode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/procodes27/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/procodes27/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/procodes27/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/procodes27/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/procodes27/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/procodes27/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/procodes27/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/procodes27/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
