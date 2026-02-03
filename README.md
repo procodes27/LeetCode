@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/procodes27/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/procodes27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/procodes27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/procodes27/LeetCode/tree/master/0135-candy) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/procodes27/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/procodes27/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/procodes27/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/procodes27/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/procodes27/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/procodes27/LeetCode/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/procodes27/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/procodes27/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/procodes27/LeetCode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/procodes27/LeetCode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/procodes27/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
