@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/procodes27/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/procodes27/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/procodes27/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/procodes27/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/procodes27/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/procodes27/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/procodes27/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/procodes27/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/procodes27/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/procodes27/LeetCode/tree/master/0768-partition-labels) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/procodes27/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/procodes27/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/procodes27/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/procodes27/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/procodes27/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/procodes27/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/procodes27/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
